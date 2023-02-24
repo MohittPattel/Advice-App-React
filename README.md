@@ -1,5 +1,5 @@
-Introduction:
+Introduction: Advice App is a ReactJS Web Application
 
-A React Advice App. We're going to use React on the front end and we'll make get requests to Advice Slip JSON API.
+Description: In this web application I use ReactJS for the front-end and on every click makes get requests to Advice Slip JSON API.
 
 Live App: click(https://practical-nightingale-203e65.netlify.app/)
